@@ -1,0 +1,17 @@
+{
+  "name": "fira-sans",
+  "repo": "typefaces/fira-sans",
+  "description": "The Fira Sans typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "typefaces/fira-sans-regular": "*",
+    "typefaces/fira-sans-regular-italic": "*",
+    "typefaces/fira-sans-light": "*",
+    "typefaces/fira-sans-light-italic": "*",
+    "typefaces/fira-sans-medium": "*",
+    "typefaces/fira-sans-medium-italic": "*",
+    "typefaces/fira-sans-bold": "*",
+    "typefaces/fira-sans-bold-italic": "*"
+  }
+}
