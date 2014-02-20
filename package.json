@@ -1,0 +1,16 @@
+{
+  "name": "typefaces-fira-sans",
+  "description": "The Fira Sans typeface.",
+  "version": "0.0.1",
+  "dependencies": {
+    "typefaces-fira-sans-regular": "git://github.com/npmcomponent/typefaces-fira-sans-regular.git",
+    "typefaces-fira-sans-regular-italic": "git://github.com/npmcomponent/typefaces-fira-sans-regular-italic.git",
+    "typefaces-fira-sans-light": "git://github.com/npmcomponent/typefaces-fira-sans-light.git",
+    "typefaces-fira-sans-light-italic": "git://github.com/npmcomponent/typefaces-fira-sans-light-italic.git",
+    "typefaces-fira-sans-medium": "git://github.com/npmcomponent/typefaces-fira-sans-medium.git",
+    "typefaces-fira-sans-medium-italic": "git://github.com/npmcomponent/typefaces-fira-sans-medium-italic.git",
+    "typefaces-fira-sans-bold": "git://github.com/npmcomponent/typefaces-fira-sans-bold.git",
+    "typefaces-fira-sans-bold-italic": "git://github.com/npmcomponent/typefaces-fira-sans-bold-italic.git"
+  },
+  "license": "MIT"
+}
